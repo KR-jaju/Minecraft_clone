@@ -8,7 +8,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         val textview = TextView(this)
-        textview.text = "master"
+        textview.text = "MASTER"
         setContentView(textview)
     }
 }
