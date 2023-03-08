@@ -14,3 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Minecraft Clone"
 include ':app'
+include ':graphics'
+include ':system'
